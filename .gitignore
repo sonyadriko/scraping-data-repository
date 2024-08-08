@@ -1,0 +1,18 @@
+# Ignore pycache files
+__pycache__/
+
+# Ignore any logs
+*.log
+
+# Ignore any Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+
+# Ignore Selenium web driver binaries
+geckodriver
+chromedriver
+edgedriver
+operadriver
+chrome
